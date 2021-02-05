@@ -3,7 +3,7 @@ import Records as BR
 import Dialogue as BD
 
 
-BG.BatGUI.LaunchGUI()
+#BG.BatGUI.LaunchGUI()
 
 BD.Dialogue.MainUserSelection()
 User_Selection = int(input())
